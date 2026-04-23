@@ -17,7 +17,7 @@ body {
 .maintenance {
   width: 100%;
   height: 100vh;
-   background: linear-gradient(135deg, #ff9a9e, #fad0c4);
+  background: linear-gradient(135deg, #0f172a, #1e3a8a, #2563eb);
   display: flex;
   align-items: center;
   justify-content: center;
